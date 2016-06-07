@@ -1,14 +1,23 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{07A8014F-0D36-F36A-0F46-1A33744A9B78}") = "Unity-3D-Pierce-David-Game", "Assembly-UnityScript.unityproj", "{FF460380-5E8F-D0D1-D98E-A7007C3B9D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF460380-5E8F-D0D1-D98E-A7007C3B9D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF460380-5E8F-D0D1-D98E-A7007C3B9D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF460380-5E8F-D0D1-D98E-A7007C3B9D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF460380-5E8F-D0D1-D98E-A7007C3B9D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
