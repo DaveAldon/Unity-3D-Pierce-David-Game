@@ -1,0 +1,1 @@
+﻿var moveSpeed : float = 10;function Start() {}function Update () {    if (Input.GetKeyDown("w")) {        transform.Translate(moveSpeed * Time.deltaTime, 0, 0);            }}
